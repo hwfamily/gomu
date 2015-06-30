@@ -8,6 +8,6 @@
 </head>
 <body>
 아아아dfdf
-잘해보자
+잘해
 </body>
 </html>
